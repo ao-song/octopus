@@ -1,7 +1,5 @@
-# octupus
-A hobby project in rust
+# octopus
+A hobby project in rust to implement MQTT5
 
 ## Refs:
-- [amqp 1.0](https://www.amqp.org/sites/amqp.org/files/amqp.pdf)
-- [rabbitmq](https://www.rabbitmq.com/documentation.html)
-
+- [mqtt5](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.pdf)
